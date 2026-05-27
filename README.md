@@ -54,6 +54,7 @@ Atuo no desenvolvimento de interfaces modernas, construção de APIs eficientes 
 
 ### DevOps & Infraestrutura
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 
 ### Outros Recursos & Engenharia
 * **Engenharia de Requisitos:** Modelagem de sistemas, refinamento de demandas e contato com stakeholders.
